@@ -8,17 +8,17 @@ Angular 17 blog application with MEAN Stack
 * Tailwind CSS
 
 # Installation & Setup
-Clone the repository
-Go into the main directory: $ cd Mean-Blog
-Go into the backend(api) directory: $ cd api
-Install the required packages: $ npm install
-Start the nodejs server : $ npm start
-Access the API at [http://localhost:4000]
+* Clone the repository
+* Go into the main directory: $ cd Mean-Blog
+* Go into the backend(api) directory: $ cd api
+* Install the required packages: $ npm install
+* Start the nodejs server : $ npm start
+* Access it at [http://localhost:4000]
 
-Go into the frontend directory: $ cd frontend
-Install Angular17 required packages: $ npm install
-Start the local application: $ npm start
-Access at [http://localhost:4200]
+* Go into the frontend directory: $ cd frontend
+* Install Angular17 required packages: $ npm install
+* Start the local application: $ npm start
+* Access it at [http://localhost:4200]
 
 # Features
 
